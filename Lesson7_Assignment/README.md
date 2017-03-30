@@ -4,19 +4,18 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+Mar 31st 2017
 
 ### Student Name:  
-(First and Last Name)
+Bryan Levy
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+In this assignment we used jQuery elements while constructing a recepie incorporating the use of the DOM
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://theblevs.github.io/lesson7_jquery/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. jQuery allows developers to implement simple tasks into programs with the use of minimal code
+2. jQuery statements begin with a $ allowing all that follow to be interpreted using the jQuery library
+3. jQuery is capable of manipulating the DOM by performing specific actions on selected elements
